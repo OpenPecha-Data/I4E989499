@@ -5,11 +5,12 @@ source_metadata:
   title: སྨན་པ་རྐང་རྗེན་མའི་བོད་སྨན་སྦྱོར་སྡེ་གསར་བསྒྲིགས།
   author: ''
   volumes:
-    0db1b22c2b5c4865a8fb846b69b62447:
+    c65ebbe14719428cb3d47a1418fc8276:
       image_group_id: I1KG12509
-      title: ''
+      title: Volume 1 of sman pa rkang rjen ma'i bod sman sbyor sde gsar bsgrigs
       volume_number: 1
       total_pages: 340
+      base_file: v001.txt
 ebook_metadata:
   title: སྨན་པ་རྐང་རྗེན་མའི་བོད་སྨན་སྦྱོར་སྡེ་གསར་བསྒྲིགས།
   author: ''
